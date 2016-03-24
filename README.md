@@ -18,7 +18,7 @@ A tool to do file merging.
         line 3
     end
 
-`Merge` is a special function that reads the content of a given file into the template file.
+`Merge` is a special function that reads the content of a file into the template file.
 
 **part1.txt**
 
