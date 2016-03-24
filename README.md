@@ -1,8 +1,8 @@
 # gomerge
 A tool to do file merging.
 
-### Installation
-    go get -u github.com/fredyw/gomerge
+### Download
+[https://github.com/fredyw/gomerge/releases](https://github.com/fredyw/gomerge/releases)
 
 ### Usage
     ./gomerge --template test.template --output test.txt
