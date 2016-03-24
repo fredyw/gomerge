@@ -6,7 +6,7 @@ A tool to do file merging.
 (Only 64-bit Windows and Linux binaries are available)
 
 
-### Build from Source
+### Building from Source
     go get -u github.com/fredyw/gomerge
 
 ### Usage
