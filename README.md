@@ -7,7 +7,7 @@ A tool to do file merging.
 
 
 ### Build from Source
-    `go get -u github.com/fredyw/gomerge
+    go get -u github.com/fredyw/gomerge
 
 ### Usage
     ./gomerge --template test.template --output test.txt
