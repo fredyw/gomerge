@@ -3,6 +3,11 @@ A tool to do file merging.
 
 ### Download
 [https://github.com/fredyw/gomerge/releases](https://github.com/fredyw/gomerge/releases)
+(Only 64-bit Windows and Linux binaries are available)
+
+
+### Build from Source
+    `go get -u github.com/fredyw/gomerge
 
 ### Usage
     ./gomerge --template test.template --output test.txt
