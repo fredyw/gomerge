@@ -80,9 +80,8 @@ func mergeFunc(outputPath string) map[string]interface{} {
 				panic(err)
 			}
 			return string(bytes)
-		} else {
-			log.Printf("File: %s does not exist, ignoring it\n", getAbsolutePath(path))
 		}
+		log.Printf("File: %s does not exist, ignoring it\n", getAbsolutePath(path))
 		return ""
 	}
 	return funcMap
